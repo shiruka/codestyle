@@ -9,6 +9,7 @@
 - The constructors with no real code in it must. [Wrong](https://prnt.sc/ux5v1o) [Correct](https://prnt.sc/ux5veo)
 - Using `this` keyword for fields and methods is a must. [Example](https://prnt.sc/ux5uhg)
 - The Javadoc for each constructor, method, class, and the field is a must. [Example](https://prnt.sc/ux5u87)
+- The Javadocs start with lowercase letter is a must. [Example](https://prnt.sc/ux8b84)
 - The end line is a must. [Example](https://prnt.sc/ux5ts1)
 - No blank line before the latest brace is a must. [Example](https://prnt.sc/ux5svn)
 - No blank line in any method is a must. [Example](https://prnt.sc/ux5y6v)
