@@ -14,3 +14,4 @@
 - No blank line in any method is a must. [Example](https://prnt.sc/ux5y6v)
 - Blank lines between fields and methods only 1 is a must. [Example](https://prnt.sc/ux5zk4)
 - 1 Blank line after class header is a must. [Example](https://prnt.sc/ux5zy8)
+- package-info.java for each package is a must. [Example](https://prnt.sc/ux6u2k)
