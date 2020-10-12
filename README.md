@@ -1,6 +1,9 @@
 ### All
 - Indentation 2 is a must. [Example](https://prnt.sc/ux5t5u)
 ### Java
+#### Alignment
+-
+#### Style
 - The `var` that comes from Java 11, in local values is a must. [Example](https://prnt.sc/ux5xbp)
 - @NotNull and @Nullable annotations for fields and methods are musts. [Nullable](https://prnt.sc/ux5wjy) [NotNull](https://prnt.sc/ux5wos)
 - The classes that are not supposed to extensible are `final` must. [Example](https://prnt.sc/ux5wca)
@@ -17,4 +20,7 @@
 - 1 blank line after the class header is a must. [Example](https://prnt.sc/ux5zy8)
 - package-info.java for each package is a must. [Example](https://prnt.sc/ux6u2k)
 ### XML
-- 
+#### Alignment
+-
+#### Style
+-
