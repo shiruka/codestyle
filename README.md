@@ -1,7 +1,7 @@
 ### All
 - Indentation 2 is a must. [Example](https://prnt.sc/ux5t5u)
 ### Java
-- The `var` that comes from Java 11, in local values are a must. [Example](https://prnt.sc/ux5xbp)
+- The `var` that comes from Java 11, in local values is a must. [Example](https://prnt.sc/ux5xbp)
 - @NotNull and @Nullable annotations for fields and methods are musts. [Nullable](https://prnt.sc/ux5wjy) [NotNull](https://prnt.sc/ux5wos)
 - The classes that are not supposed to extensible are `final` must. [Example](https://prnt.sc/ux5wca)
 - The methods where is in an abstract class are `final` must. [Example](https://prnt.sc/ux5w4z)
