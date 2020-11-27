@@ -2,12 +2,8 @@
 - Indentation has to be 2. [Example](https://prnt.sc/ux5t5u)
 ### Java
 #### Alignment
-- Fields and methods have to align by visibility(order name)
-  - public -> protected -> packate-private -> private [Methods](https://prnt.sc/vr8z08) [Fields](https://prnt.sc/vr8yf5)
-- Fields and methods have to align by being static(order name)
-  - static -> non-static [Methods](https://prnt.sc/vr8zpx) [Fields](https://prnt.sc/vr905w)
-- Fields have to align by bein final(order name)
-  - set final -> final -> set mutable -> mutable [Example](https://prnt.sc/vr8vvt)
+- Fields
+  - static -> non-static | set -> didn't set | immutable -> mutable | public -> protected -> package-private -> private [Example](https://prnt.sc/vr9fzn)
 #### Style
 - Local values have to have `var` keyword that comes with Java 11. [Example](https://prnt.sc/ux5xbp)
 - Fields and methods have to annotatated with @NotNull and @Nullable. [Nullable](https://prnt.sc/ux5wjy) [NotNull](https://prnt.sc/ux5wos)
