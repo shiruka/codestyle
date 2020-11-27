@@ -8,6 +8,11 @@
   - static -> non-static
   - set -> didn't set(for non-static)
   - ordered by name
+- Methods [Example](https://prnt.sc/vra5s9)
+  - public -> protected -> package-private -> private
+  - immutable(final) -> mutable(non-final)
+  - static -> non-static
+  - ordered by name
 #### Style
 - Local values have to have `var` keyword that comes with Java 11. [Example](https://prnt.sc/ux5xbp)
 - Fields and methods have to annotatated with @NotNull and @Nullable. [Nullable](https://prnt.sc/ux5wjy) [NotNull](https://prnt.sc/ux5wos)
