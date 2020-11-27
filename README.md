@@ -2,11 +2,11 @@
 - Indentation has to be 2. [Example](https://prnt.sc/ux5t5u)
 ### Java
 #### Alignment
-- Fields [Example](https://prnt.sc/vr9oo4)
+- Fields [Example](https://prnt.sc/vr9w9n)
   - public -> protected -> package-private -> private
   - immutable(final) -> mutable(non-final)
   - static -> non-static
-  - set -> didn't set
+  - set -> didn't set(for non-static)
   - ordered by name
 #### Style
 - Local values have to have `var` keyword that comes with Java 11. [Example](https://prnt.sc/ux5xbp)
