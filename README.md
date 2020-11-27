@@ -5,7 +5,7 @@
 - Fields and methods have to allign by visibility
   - public -> packate private -> protected -> private [Methods](https://prnt.sc/vr8z08) [Fields](https://prnt.sc/vr8yf5)
 - Fields and methods have to allign by being static
-  - non-static -> static [Methods](https://prnt.sc/vr8qo0) [Fields](https://prnt.sc/vr8r5a)
+  - static -> non-static [Methods](https://prnt.sc/vr8zpx) [Fields](https://prnt.sc/vr905w)
 - Fields have to allign by bein final
   - set final -> final -> set mutable -> mutable [Example](https://prnt.sc/vr8vvt)
 #### Style
