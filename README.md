@@ -3,7 +3,8 @@
 ### Java
 #### Alignment
 - Fields
-  - static -> non-static | set -> didn't set | immutable -> mutable | public -> protected -> package-private -> private [Example](https://prnt.sc/vr9fzn)
+  - ordered by name
+  - static -> non-static | set -> didn't set | immutable -> mutable | public -> protected -> package-private -> private [Example](https://prnt.sc/vr9oo4)
 #### Style
 - Local values have to have `var` keyword that comes with Java 11. [Example](https://prnt.sc/ux5xbp)
 - Fields and methods have to annotatated with @NotNull and @Nullable. [Nullable](https://prnt.sc/ux5wjy) [NotNull](https://prnt.sc/ux5wos)
