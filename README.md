@@ -1,15 +1,15 @@
 ### All
-- Indentation 2 is a must. [Example](https://prnt.sc/ux5t5u)
+- Indentation has to be 2. [Example](https://prnt.sc/ux5t5u)
 ### Java
 #### Alignment
 -
 #### Style
-- The `var` that comes from Java 11, in local values is a must. [Example](https://prnt.sc/ux5xbp)
-- @NotNull and @Nullable annotations for fields and methods are musts. [Nullable](https://prnt.sc/ux5wjy) [NotNull](https://prnt.sc/ux5wos)
-- The classes that are not supposed to extensible are `final` must. [Example](https://prnt.sc/ux5wca)
-- The methods where is in an abstract class are `final` must. [Example](https://prnt.sc/ux5w4z)
-- The fields which is immutable are `final` must. [Example](https://prnt.sc/ux5vs5)
-- The constructors with no real code in it must. [Wrong](https://prnt.sc/ux5v1o) [Correct](https://prnt.sc/ux5veo)
+- Local values have to have `var` keyword that comes with Java 11. [Example](https://prnt.sc/ux5xbp)
+- Fields and methods have to annotatated with @NotNull and @Nullable. [Nullable](https://prnt.sc/ux5wjy) [NotNull](https://prnt.sc/ux5wos)
+- The classes that are not supposed to extensible have to have `final` keyword. [Example](https://prnt.sc/ux5wca)
+- The methods where is in an abstract class should have `final` keyword. [Example](https://prnt.sc/ux5w4z)
+- The fields which suppose to be immutable have to have `final` keyword. [Example](https://prnt.sc/ux5vs5)
+- The constructors mustn't have real code in it. [Wrong](https://prnt.sc/ux5v1o) [Correct](https://prnt.sc/ux5veo)
 - Using `this` keyword for fields and methods is a must. [Example](https://prnt.sc/ux5uhg)
 - The Javadoc for each constructor, method, class, and the field is a must. [Example](https://prnt.sc/ux5u87)
 - The Javadocs start with lowercase letter is a must. [Example](https://prnt.sc/ux8b84)
