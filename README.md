@@ -3,7 +3,7 @@
 ### Java
 #### Alignment
 - Fields and methods have to align by visibility(order name)
-  - public -> packate private -> protected -> private [Methods](https://prnt.sc/vr8z08) [Fields](https://prnt.sc/vr8yf5)
+  - public -> protected -> packate-private -> private [Methods](https://prnt.sc/vr8z08) [Fields](https://prnt.sc/vr8yf5)
 - Fields and methods have to align by being static(order name)
   - static -> non-static [Methods](https://prnt.sc/vr8zpx) [Fields](https://prnt.sc/vr905w)
 - Fields have to align by bein final(order name)
