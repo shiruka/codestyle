@@ -2,7 +2,10 @@
 - Indentation has to be 2. [Example](https://prnt.sc/ux5t5u)
 ### Java
 #### Alignment
--
+- Fields and methods have to allign by visibility
+  - public -> protected -> packate private -> private [Example](https://prnt.sc/vr8r5a)
+- Fields and methods have to allign by static
+  - non-static -> static [Example](https://prnt.sc/vr8qo0)
 #### Style
 - Local values have to have `var` keyword that comes with Java 11. [Example](https://prnt.sc/ux5xbp)
 - Fields and methods have to annotatated with @NotNull and @Nullable. [Nullable](https://prnt.sc/ux5wjy) [NotNull](https://prnt.sc/ux5wos)
