@@ -30,6 +30,6 @@
   - package-info.java for each package is a must. [Example](https://prnt.sc/ux6u2k)
 ### XML
 - Alignment
-  -
+  - .
 - Style
-  -
+  - .
