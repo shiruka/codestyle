@@ -6,7 +6,6 @@
   - public -> protected -> package-private -> private
   - immutable(final) -> mutable(non-final)
   - static -> non-static
-  - set -> didn't set(for non-static)
   - ordered by name
 - Methods [Example](https://prnt.sc/vra5s9)
   - public -> protected -> package-private -> private
