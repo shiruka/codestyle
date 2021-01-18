@@ -33,3 +33,6 @@
   - .
 - Style
   - .
+### Properties
+- Style
+  - .properties files can have blank lines. [Example](https://prnt.sc/x4yiaz)
